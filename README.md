@@ -1,3 +1,5 @@
+
+
 # autorip
 autorip is a bash script to rip DVDs with multiple tracks (such as fitness DVDs) using HandBrake.
 
@@ -6,3 +8,9 @@ autorip accepts a single parameter of a name -- this name will be used as the na
 Example usage:
 
 autorip Jillian
+
+
+## Todo:
+* parameterize the mounted DVD path
+* parameterize the full destination path
+* clean up base name parameter
