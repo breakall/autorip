@@ -10,6 +10,10 @@ Example usage:
 autorip Jillian
 
 
+## Assumptions
+* DVD is mounted to /media/dvd
+* New folder will be created under ~/videos
+
 ## Todo:
 * parameterize the mounted DVD path
 * parameterize the full destination path
