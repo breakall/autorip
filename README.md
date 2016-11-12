@@ -19,8 +19,10 @@ autorip accepts a single parameter of a name -- this name will be used as the na
 ## Assumptions
 * DVD is mounted to /media/dvd
 * New folder will be created under ~/videos
+* Content is in the first 30 tracks
 
 ## Todo
 * parameterize the mounted DVD path
 * parameterize the full destination path
 * clean up base name parameter
+* make autorip run for all available tracks, not just the first 30
