@@ -7,8 +7,9 @@ autorip accepts a single parameter of a name -- this name will be used as the na
 
 Example usage:
 
+```bash
 autorip Jillian
-
+```
 
 ## Assumptions
 * DVD is mounted to /media/dvd
