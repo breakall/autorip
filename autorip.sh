@@ -2,7 +2,7 @@
 echo "===============\n"
 echo "=== autorip ===\n"
 echo "===============\n"
-e
+
 NAME=$1
 mkdir ~/videos/$NAME
 echo "Destination folder created - ~/videos/$NAME"
