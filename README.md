@@ -13,7 +13,7 @@ autorip accepts a single parameter of a name -- this name will be used as the na
 ./autorip <folder name>
 ```
 
-### xample
+### example
 
 ```bash
 ./autorip Jillian
