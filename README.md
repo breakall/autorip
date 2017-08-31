@@ -1,7 +1,7 @@
 
 
 # autorip
-autorip is a bash script to rip DVDs with multiple tracks (such as fitness DVDs or TV show DVDs) using HandBrake.
+autorip is a pair of bash scripts to rip DVDs with multiple tracks (such as fitness DVDs or TV show DVDs) using HandBrake.
 
 
 ## autorip usage
