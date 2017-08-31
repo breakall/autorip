@@ -13,7 +13,7 @@ autorip accepts a single parameter of a name -- this name will be used as the na
 ./autorip <folder name>
 ```
 
-### example
+Example:
 
 ```bash
 ./autorip Jillian
@@ -26,10 +26,11 @@ autorip accepts a single parameter of a name -- this name will be used as the na
 ./autorip <folder name>
 ```
 
+Example:
 
-### example
-
-# autorip.sh House 2 9 4 // will produce ~/videos/House/House_S2E9.mp4, etc.
+```bash
+autorip.sh House 2 9 4 // will produce ~/videos/House/House_S2E9.mp4, etc.
+```
 
 ## Todo
 * parameterize the mounted DVD path
