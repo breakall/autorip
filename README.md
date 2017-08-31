@@ -3,23 +3,33 @@
 # autorip
 autorip is a bash script to rip DVDs with multiple tracks (such as fitness DVDs) using HandBrake.
 
+
+## autorip usage
+
 autorip accepts a single parameter of a name -- this name will be used as the name of the folder in which the videos will be placed, and the base file name for all videos. The folder does not need to previously exist.
 
-## Usage
+
 ```bash
 ./autorip <folder name>
 ```
 
-### Example
+### xample
 
 ```bash
 ./autorip Jillian
 ```
 
-## Assumptions
-* DVD is mounted to /media/dvd
-* New folder will be created under ~/videos
-* Content is in the first 30 tracks
+## autoriptv usage
+
+
+```bash
+./autorip <folder name>
+```
+
+
+### example
+
+# autorip.sh House 2 9 4 // will produce ~/videos/House/House_S2E9.mp4, etc.
 
 ## Todo
 * parameterize the mounted DVD path
