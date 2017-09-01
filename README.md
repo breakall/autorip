@@ -21,15 +21,23 @@ Example:
 
 ## autoriptv usage
 
+autoriptv accepts four parameters:
+
+-name of TV show
+-season
+-starting episode number
+-number of episodes to rip
+
+
 
 ```bash
-./autorip <folder name>
+./autoriptv.sh <name of TV show> <season> <starting episode number> <number of episodes to rip>
 ```
 
 Example:
 
 ```bash
-autorip.sh House 2 9 4 // will produce ~/videos/House/House_S2E9.mp4, etc.
+autoriptv.sh House 2 9 4 // will produce ~/videos/House/House_S2E9.mp4, etc.
 ```
 
 ## Todo
