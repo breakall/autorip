@@ -23,10 +23,10 @@ Example:
 
 autoriptv accepts four parameters:
 
--name of TV show
--season
--starting episode number
--number of episodes to rip
+* name of TV show
+* season
+* starting episode number
+* number of episodes to rip
 
 
 
