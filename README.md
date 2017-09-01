@@ -16,7 +16,7 @@ autorip accepts a single parameter of a name -- this name will be used as the na
 Example:
 
 ```bash
-./autorip Jillian
+./autorip Jillian // dumps the files to ~/videos/Jillian/
 ```
 
 ## autoriptv
