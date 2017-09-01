@@ -4,7 +4,7 @@
 autorip is a pair of bash scripts to rip DVDs with multiple tracks (such as fitness DVDs or TV show DVDs) using HandBrake.
 
 
-## autorip usage
+## autorip
 
 autorip accepts a single parameter of a name -- this name will be used as the name of the folder in which the videos will be placed, and the base file name for all videos. The folder does not need to previously exist.
 
@@ -19,7 +19,7 @@ Example:
 ./autorip Jillian
 ```
 
-## autoriptv usage
+## autoriptv
 
 autoriptv accepts four parameters:
 
