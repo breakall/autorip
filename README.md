@@ -28,7 +28,7 @@ autoriptv accepts four parameters:
 * starting episode number
 * number of episodes to rip
 
-
+This script rip the specified number of episodes from the DVD, and name them according to the name, season, and episode number passed in.
 
 ```bash
 ./autoriptv.sh <name of TV show> <season> <starting episode number> <number of episodes to rip>
